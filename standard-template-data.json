@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-06T03:55:45.066679659Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-06T03:58:16.995861156Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -656,7 +656,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": " "
+                "description": "\n내 집은 강릉에 있다는 가주강릉의 이름처럼\n머물 땐 아늑하고 떠나면 그리운 공간이 되겠습니다."
               },
               "closing": {
                 "title": " ",
@@ -675,10 +675,36 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "가주강릉 스테이",
+                "images": [
+                  {
+                    "id": "ccca85d9-21d8-46ea-a746-30d879285fe3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_essence/1778039874579-l2wpitcrnc.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "5a6bffb4-645c-40f7-9c6f-a7d0ee6828eb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_essence/1778039874600-kvbtv9od0d.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "7744dd3d-47ad-43e4-8c3a-ca6bfc2b46aa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_essence/1778039874608-22knacbytv.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "편백나무로 감싼 아늑한 신축 독채 하우스.\n은은한 편백향과 통창 너머 아름다운 노을을 함께 즐겨보세요.\n국가 인증 천연 암반수를 사용하는 넓은 입욕실까지 마련되어 있습니다.\n머무는 순간마다 깊은 휴식을 전하는 힐링 스테이입니다."
               },
               "gallery": {
                 "title": "",
