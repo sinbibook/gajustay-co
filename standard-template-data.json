@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-06T03:10:48.761871666Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-06T03:55:45.066679659Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -587,7 +587,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "강릉 가주강릉 스테이",
                 "images": [
                   {
                     "id": "79b77323-a29d-4014-999e-42157346e9bf",
@@ -655,13 +655,24 @@
                   }
                 ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "closing": {
-                "title": "",
-                "images": [ ],
+                "title": " ",
+                "images": [
+                  {
+                    "id": "cd14f927-3b93-4f37-bf7a-0175a4622b78",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_closing/1778037178965-h082mwtn19.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "essence": {
                 "title": "",
@@ -688,8 +699,17 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": [ ]
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "a2f0543d-2aca-4b5b-b66a-bc3b1cc156d8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/directions_hero/1778037178968-860cx715ii.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -702,10 +722,51 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": [ ]
+                "title": " ",
+                "images": [
+                  {
+                    "id": "54a6fd1e-976b-456b-9e7d-1174f83b4a4a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/main_hero/1778037178942-2j2g1nhofn.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": "스테이가주 강릉은\n내 집은 강릉에 있다는 가주강릉의 이름처럼\n머물 땐 아늑하고 떠나면 그리운 공간이 되겠습니다.\n"
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "우리만의 프라이빗한 쉼",
+                  "images": [
+                    {
+                      "id": "51a5a934-0cc3-4342-80ea-3f3fa1db4843",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/main_about/1778037242019-5ieew946lb.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "7bf8f7a4-42da-4062-8484-d5645ae5818a"
+                    }
+                  ],
+                  "blockId": "7bf8f7a4-42da-4062-8484-d5645ae5818a",
+                  "description": "편백나무의 인테리어와\n아늑한 단독 독채 공간에서 \n넓은 통창 너머로 펼쳐지는 감성 풍경이 \n머무는 순간을 더욱 특별하게 채워줍니다.\n오직 우리만을 위한 조용한 시간과 \n여유를 경험해보세요."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "cf5af4ab-b0f7-4d8a-8409-e512dbe16e6b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/main_about/1778039718113-xoqp36o82s.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "859b3d23-91e3-404c-861d-302c46055229"
+                    }
+                  ],
+                  "blockId": "859b3d23-91e3-404c-861d-302c46055229",
+                  "description": "소금강을 물들이는 아름다운 노을을 즐기실 수 있고\n국가 인증 고품질의 천연 암반수를 사용하는\n너른 입욕실까지 준비되어 완벽한 힐링형 휴식을 선사합니다."
+                }
+              ]
             }
           ]
         },
@@ -777,12 +838,21 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "fb0113a3-6d17-4721-b093-33cdeeb6bbb9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/reservation_hero/1778037178966-wh8lnn6bpj.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [ ],
-                "description": ""
+                "description": " "
               }
             }
           ]
