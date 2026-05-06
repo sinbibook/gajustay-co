@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-06T04:10:24.832149859Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-06T04:11:27.759649018Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -789,7 +789,7 @@
                 "description": "편백나무로 감싼 아늑한 신축 독채 하우스.\n은은한 편백향과 통창 너머 아름다운 노을을 함께 즐겨보세요.\n국가 인증 천연 암반수를 사용하는 넓은 입욕실까지 마련되어 있습니다.\n머무는 순간마다 깊은 휴식을 전하는 힐링 스테이입니다."
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [
                   {
                     "id": "0bfa8ebf-f44d-45a9-b864-d7ca7fd18ae6",
@@ -833,7 +833,8 @@
                   }
                 ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "signature": {
                 "title": "",
