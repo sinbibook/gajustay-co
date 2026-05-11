@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-05-11T03:31:11.354921282Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-05-11T08:44:19.378247125Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -406,6 +406,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -472,6 +473,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -538,6 +540,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -602,6 +605,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "에어컨",
@@ -1754,6 +1758,15 @@
               "category": "roomtype_interior"
             },
             {
+              "id": "8526eaf3-c126-4262-af61-c4547e201e57",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/roomtype_interior/1778489042202-5ut195146p.jpg",
+              "sortOrder": 53,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9bb118b9-7a77-45dc-9dde-5f0d1d00b46c",
+              "category": "roomtype_interior"
+            },
+            {
               "id": "1581d8f9-f672-4ee6-824e-0ddccec62988",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/roomtype_interior/1778036079451-6tcmvayrtx.jpg",
               "sortOrder": 54,
@@ -1817,8 +1830,8 @@
               "category": "roomtype_exterior"
             },
             {
-              "id": "a51bfa53-de9e-4b17-9510-9e846e59a50a",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/roomtype_exterior/1778467839957-ddvo8ltwjp.jpg",
+              "id": "d8dd0310-bc12-403f-aa6c-94bbe83a1711",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/roomtype_exterior/1778489042114-1xm8gkbzhn.jpg",
               "sortOrder": 11,
               "description": "",
               "isSelected": true,
