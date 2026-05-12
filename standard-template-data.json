@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-05-12T00:55:39.836999023Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-05-12T01:00:06.674723524Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -880,8 +880,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "오시는길",
+                "description": "- 사천 하나로마트, 약국, 강릉 아산병원 등 편의 시설 차량이동 5분 인접\n- 사천해변, 주문진, 경포대, 오죽헌, 선교장, 강릉 시내, 북강릉IC 등 주요 관광지 7분-15분 인접"
               }
             }
           ]
