@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-05-12T08:47:24.317559652Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-05-12T08:50:09.632667783Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -671,7 +671,7 @@
           "sections": [
             {
               "hero": {
-                "title": " ",
+                "title": " 스테이 가주강릉",
                 "images": [
                   {
                     "id": "79b77323-a29d-4014-999e-42157346e9bf",
@@ -1139,7 +1139,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "스테이 가주강릉"
+        "nameEn": "Stay Gaju Gangneung"
       },
       "roomtypes": [
         {
