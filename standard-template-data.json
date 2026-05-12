@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-05-12T08:41:57.126397164Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-05-12T08:43:19.411263184Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -671,7 +671,7 @@
           "sections": [
             {
               "hero": {
-                "title": "강릉 가주강릉 스테이",
+                "title": " ",
                 "images": [
                   {
                     "id": "79b77323-a29d-4014-999e-42157346e9bf",
