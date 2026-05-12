@@ -1,1 +1,1 @@
-# gajustay-co
+# template-full-banner-wipe
