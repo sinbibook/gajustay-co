@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-05-12T00:46:22.127595444Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-05-12T00:48:36.021594645Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -690,9 +690,25 @@
                     "blockId": null
                   },
                   {
+                    "id": "3fa69c39-d1a6-4287-a854-d743f95f8656",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778546831908-c05x5p7q19.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "2813bcaa-a1e6-492e-b119-cc9989fe4c81",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778036975556-ms030pjkkm.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "58b32d52-116c-40e1-85cc-cc317561076d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778546831936-9rz12n9ifw.jpg",
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -700,7 +716,7 @@
                   {
                     "id": "a98dbe2a-1cb4-429e-aa3f-f4d9b2672fb6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778036975555-3fkxuma5ed.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -708,7 +724,7 @@
                   {
                     "id": "1ed1ccac-588a-4f65-ad1e-adc50ae903cd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778036975538-np0u1n3zht.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -716,7 +732,7 @@
                   {
                     "id": "81649390-bb41-4334-925c-8642a24e268a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778036975548-qjsssksc78.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -724,7 +740,7 @@
                   {
                     "id": "257a7592-743c-441e-b9cc-564cdbb935e2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778036975567-53o078wi0e.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -732,7 +748,7 @@
                   {
                     "id": "76f9584f-4a10-4ddc-abcf-33e580b4a3e8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_hero/1778036975568-mr5il9v8a6.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -797,7 +813,7 @@
                     "id": "0bfa8ebf-f44d-45a9-b864-d7ca7fd18ae6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_gallery/1778040356834-56h4n3wvul.jpg",
                     "sortOrder": 0,
-                    "description": "객실 내부",
+                    "description": "편백향의 객실",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -805,7 +821,7 @@
                     "id": "6c98c036-844e-420b-ad83-c78e2dba2fc6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_gallery/1778040356852-lpku9tvinn.jpg",
                     "sortOrder": 1,
-                    "description": "Spa",
+                    "description": "대형스파",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -836,7 +852,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": " "
+                "description": " 편백나무 향 가득한 힐링. 프리미엄 수질 대형스파가 마련되어 있는 가주강릉 스테이"
               },
               "signature": {
                 "title": "",
