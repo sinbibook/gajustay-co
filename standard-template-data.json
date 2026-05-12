@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-05-12T08:51:00.180641745Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-05-12T09:09:00.782009278Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -810,17 +810,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "0ec42f31-5245-497f-8d4a-a0548dee47e3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_gallery/1778040356867-sowk3g628t.jpg",
-                    "sortOrder": 2,
-                    "description": "외경",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "682c7a27-c127-4569-9233-61e2aa63b9ca",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_gallery/1778040356867-8k8rmurna2.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "개별바베큐",
                     "isSelected": true,
                     "blockId": null
@@ -828,8 +820,16 @@
                   {
                     "id": "8d23c55f-92bd-4a74-9ced-e8d43aa134f3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_gallery/1778040356866-eokicl9c3m.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "정자",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "d37b5411-c920-4046-b234-94c815227643",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/846b0b2f-d627-45b6-bd0b-a470d10261c2/index_gallery/1778576928865-d7vrjwlw2q.jpg",
+                    "sortOrder": 4,
+                    "description": "외경",
                     "isSelected": true,
                     "blockId": null
                   }
