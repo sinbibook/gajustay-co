@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-05-19T09:16:37.392223682Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-05-22T07:25:11.460549832Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -26,7 +26,7 @@
     "city": "강릉시",
     "domain": "gajustay.co.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/2048735021",
-    "ybsId": "",
+    "ybsId": "77814",
     "amenities": [
       "WiFi",
       "주차장",
@@ -588,8 +588,8 @@
     {
       "id": "9bb118b9-7a77-45dc-9dde-5f0d1d00b46c",
       "name": "노을락 2층 (테라스바베큐)",
-      "description": "침대룸A(퀸1)+거실 겸 주방+입욕전용 욕실",
-      "roomInfo": "침대룸A(퀸1)+거실 겸 주방+입욕전용 욕실",
+      "description": "침대룸A(퀸1)+거실 겸 주방+화장실1",
+      "roomInfo": "침대룸A(퀸1)+거실 겸 주방+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 1인 30,000원 (24개월 이상) / 24개월 미만 무료 \n※ 영유아 기준인원 포함/최대인원 초과불가\n※ 1박기준/현장결제\n※ 추가인원수에 맞게 침구 제공해 드립니다.",
       "group": null,
       "size": 3.31,
