@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.39.0",
-    "generatedAt": "2026-05-26T08:03:29.430586052Z",
+    "version": "1.40.0",
+    "generatedAt": "2026-05-26T08:26:40.745241553Z",
     "templateType": "full_banner_wipe",
     "propertyId": "914d18f9-9bdb-4c6a-af4f-07a960f03cb5",
     "homepageId": "846b0b2f-d627-45b6-bd0b-a470d10261c2"
@@ -1020,7 +1020,7 @@
         "popups": [
           {
             "id": "e240c6fd-55e7-4880-80cf-7468bae8ea19",
-            "link": "",
+            "link": "http://pf.kakao.com/_YVkbX",
             "title": "",
             "images": [
               {
